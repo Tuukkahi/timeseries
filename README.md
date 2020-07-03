@@ -1,2 +1,2 @@
 # timeseries
-Time series prediction with LSTM neural network in PyTorch
+Time series prediction with a simple LSTM neural network in PyTorch using sine wave made noisy with random values.
